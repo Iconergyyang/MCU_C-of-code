@@ -1,0 +1,9 @@
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\vs2012\项目开发\Project1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
